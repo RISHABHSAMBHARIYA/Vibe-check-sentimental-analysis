@@ -94,7 +94,7 @@ This layered approach preserves detailed sentiment insights while presenting adm
 https://vibe-check-nlp-cloudypfztxfpsujlmbu8xqxfks.streamlit.app/
 
 **GitHub Repository:**  
-https://github.com/persistent-amd/vibe-check.git
+https://github.com/RISHABHSAMBHARIYA/Vibe-check-sentimental-analysis.git
 
 ---
 
